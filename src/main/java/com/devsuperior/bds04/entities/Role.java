@@ -1,7 +1,7 @@
 package com.devsuperior.bds04.entities;
 
 import jakarta.persistence.*;
-import org.springframework.security.core.GrantedAuthority;
+//import org.springframework.security.core.GrantedAuthority;
 
 import java.util.HashSet;
 import java.util.Objects;
